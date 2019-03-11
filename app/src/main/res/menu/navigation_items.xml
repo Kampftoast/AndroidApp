@@ -4,10 +4,12 @@
 
     <item
         android:id="@+id/action_feed"
+        android:icon="@drawable/ic_feed"
         android:title="Feed" />
     <item android:id="@+id/action_nearby"
+        android:icon="@drawable/ic_map_marker"
         android:title="Nearby" />
     <item android:id="@+id/action_profil"
-        android:title="Profil
-" />
+        android:title="Profil"
+         android:icon="@drawable/ic_user" />
 </menu>
